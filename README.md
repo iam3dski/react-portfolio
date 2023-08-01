@@ -75,7 +75,7 @@ and LinkedIn profiles, and their profile on a third platform
 
 ## Deployed page
 
-[View Published Page]()
+[View Published Page](https://iam3dski.github.io/react-portfolio/)
 
 ## License
 
